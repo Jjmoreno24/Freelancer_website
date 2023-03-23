@@ -123,9 +123,9 @@ h1, h2, h3{
     color: var(--oscuro) ;  
 }
 
-/* Hero */
+/* Hero */ /** la ubicacion de la imagen puede causar problemas**/
 .hero{
-    background-image: url(images/hero.jpg);
+    background-image: url(../images/hero.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 450px;
@@ -176,7 +176,7 @@ h1, h2, h3{
 }
 .servicio h3{
     color: var(--secundario);
-    font-weight: normal;
+    font-weight: 600;
 }
 .servicio p {
     line-height: 2;
