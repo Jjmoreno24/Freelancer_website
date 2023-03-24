@@ -125,7 +125,7 @@ h1, h2, h3{
 
 /* Hero */ /** la ubicacion de la imagen puede causar problemas**/
 .hero{
-    background-image: url(../images/hero.jpg);
+    background-image: url(images/hero.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 450px;
