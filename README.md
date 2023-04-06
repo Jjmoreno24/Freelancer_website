@@ -17,7 +17,7 @@
 - Efecto scroll (Stop)
 
 ## Operación
-Sitio web de Freelancer, solo desarrollo Frontend, con botono funcionales, formularios sin direccionamientos.
+Sitio web de Freelancer, solo desarrollo Frontend, con botones funcionales, formularios sin direccionamientos.
 
 ## ☕Vistar 
 Link: https://jjmoreno24.github.io/Freelancer_website/
